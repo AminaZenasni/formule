@@ -1,5 +1,5 @@
 # diagramme d'état de transition 
-![formule](https://user-images.githubusercontent.com/116212206/203424228-8d7ff6a8-52c0-412b-a1a8-cb3c0d9728d4.PNG)
+![new con](https://user-images.githubusercontent.com/116212206/204910199-4382f1c6-bbca-427b-b17e-84bf882b38b8.PNG)
 # Etat initiale
 ![form](https://user-images.githubusercontent.com/116212206/203438464-84efd21a-1a7e-462a-bfdb-ce1feeeafa78.PNG)
 # Supprimer
