@@ -45,9 +45,9 @@ namespace formule
             // textBox1
             // 
             this.textBox1.BackColor = System.Drawing.Color.Pink;
-            this.textBox1.Location = new System.Drawing.Point(210, 31);
+            this.textBox1.Location = new System.Drawing.Point(145, 31);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(467, 22);
+            this.textBox1.Size = new System.Drawing.Size(532, 22);
             this.textBox1.TabIndex = 14;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -56,7 +56,7 @@ namespace formule
             this.Ajouter.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.Ajouter.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Ajouter.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
-            this.Ajouter.Location = new System.Drawing.Point(12, 171);
+            this.Ajouter.Location = new System.Drawing.Point(380, 116);
             this.Ajouter.Name = "Ajouter";
             this.Ajouter.Size = new System.Drawing.Size(108, 52);
             this.Ajouter.TabIndex = 1;
@@ -68,7 +68,7 @@ namespace formule
             // 
             this.Suprimer.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.Suprimer.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Suprimer.Location = new System.Drawing.Point(12, 229);
+            this.Suprimer.Location = new System.Drawing.Point(494, 116);
             this.Suprimer.Name = "Suprimer";
             this.Suprimer.Size = new System.Drawing.Size(108, 52);
             this.Suprimer.TabIndex = 3;
@@ -80,7 +80,7 @@ namespace formule
             // 
             this.Quest.AutoSize = true;
             this.Quest.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Quest.Location = new System.Drawing.Point(122, 29);
+            this.Quest.Location = new System.Drawing.Point(47, 29);
             this.Quest.Name = "Quest";
             this.Quest.Size = new System.Drawing.Size(60, 24);
             this.Quest.TabIndex = 6;
@@ -110,7 +110,7 @@ namespace formule
             // 
             this.Ann.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.Ann.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Ann.Location = new System.Drawing.Point(126, 171);
+            this.Ann.Location = new System.Drawing.Point(313, 174);
             this.Ann.Name = "Ann";
             this.Ann.Size = new System.Drawing.Size(115, 55);
             this.Ann.TabIndex = 16;
@@ -123,7 +123,7 @@ namespace formule
             this.Enregistrer.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.Enregistrer.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Enregistrer.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.Enregistrer.Location = new System.Drawing.Point(126, 232);
+            this.Enregistrer.Location = new System.Drawing.Point(259, 116);
             this.Enregistrer.Name = "Enregistrer";
             this.Enregistrer.Size = new System.Drawing.Size(115, 52);
             this.Enregistrer.TabIndex = 13;
@@ -135,7 +135,7 @@ namespace formule
             // 
             this.Modifier.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.Modifier.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Modifier.Location = new System.Drawing.Point(12, 287);
+            this.Modifier.Location = new System.Drawing.Point(145, 116);
             this.Modifier.Name = "Modifier";
             this.Modifier.Size = new System.Drawing.Size(108, 52);
             this.Modifier.TabIndex = 15;
@@ -151,9 +151,9 @@ namespace formule
             "zina",
             "amina",
             "zenasni"});
-            this.comboBox1.Location = new System.Drawing.Point(315, 87);
+            this.comboBox1.Location = new System.Drawing.Point(145, 87);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(201, 23);
+            this.comboBox1.Size = new System.Drawing.Size(532, 23);
             this.comboBox1.TabIndex = 17;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
